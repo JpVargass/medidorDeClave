@@ -52,6 +52,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:text="evaluar clave"
+        android:textColor="@color/paleta1"
         android:textSize="24sp"
         android:textStyle="bold" />
 
